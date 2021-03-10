@@ -1,0 +1,2 @@
+<b>bilgisayar</b>	5	Hasan	1231231 <br>    
+<b>notebook</b>	10	Eldar	4223414
